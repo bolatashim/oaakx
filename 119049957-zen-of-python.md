@@ -2,6 +2,8 @@
 
 # The Zen of Python
 
+`import this` in python prints the Zen.
+
 ```python
 >>> import this
 The Zen of Python, by Tim Peters
