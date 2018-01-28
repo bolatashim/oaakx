@@ -1,3 +1,5 @@
+[&#129052; Back](README.md)
+
 # The Zen of Python
 
 ```
