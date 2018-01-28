@@ -2,7 +2,7 @@
 
 # The Zen of Python
 
-```
+```python
 >>> import this
 The Zen of Python, by Tim Peters
 
